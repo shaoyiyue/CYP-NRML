@@ -1,0 +1,6 @@
+python==3.10
+datasets==2.20.0
+rdkit==2022.09.5
+transformers==4.52.4
+peft==0.15.2
+trl==0.18.2

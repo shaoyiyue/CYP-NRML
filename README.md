@@ -6,7 +6,7 @@ This repository contains the dataset and source code accompanying the paper:
 Missingness-Aware LLM Framework for Drug
 Interaction Prediction**
 
-## 🧬 Overview
+##  Overview
 
 Cytochrome P450 (CYP) enzymes play a critical role in drug metabolism. Predicting whether a chemical compound inhibits one or more CYP isoforms is essential for early-stage drug screening and safety profiling. This project provides:
 
@@ -14,7 +14,7 @@ Cytochrome P450 (CYP) enzymes play a critical role in drug metabolism. Predictin
 - evaluation tools
 - Support for training LLM-based models under Non-Random Missing Labels (NRML)
 
-## 🧾 Dataset Summary
+## Dataset Summary
 
 The dataset covers five CYP isoforms:
 - **CYP1A2**
